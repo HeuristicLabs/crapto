@@ -9,13 +9,13 @@ What is Crapto?
 ----------------
 
 Crapto is an experimental digital currency that enables instant payments to
-anyone, anywhere in the world. Crapto uses peer-to-peer technology to operate
+anyone, anywhere in the world. It is similar to Bitcoin (more specifically, it uses the same blockchain algorithm as Litecoin). Crapto uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
 out collectively by the network. Crapto Core is the name of open source
 software which enables the use of this currency.
 
-For more information, as well as an immediately useable, binary version of
-the Crapto Core software, see [https://craptocurrency.net](https://craptocurrency.net).
+For more information, as well as an immediately useable, web-based interface to the 
+Crapto Core software, see [https://craptocurrency.net](https://craptocurrency.net).
 
 License
 -------
