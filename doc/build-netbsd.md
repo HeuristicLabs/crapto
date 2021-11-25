@@ -22,7 +22,7 @@ libtool
 pkg-config
 python37
 
-git clone https://github.com/crapto-project/crapto.git
+git clone https://github.com/nickarmstrongcrews/crapto.git
 ```
 
 See [dependencies.md](dependencies.md) for a complete overview.

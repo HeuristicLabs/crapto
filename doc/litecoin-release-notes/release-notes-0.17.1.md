@@ -1,13 +1,13 @@
 Crapto Core version 0.17.1 is now available from:
 
-  <https://download.crapto.org/crapto-0.17.1/>
+  <https://download.craptocurrency.net/crapto-0.17.1/>
 
 This is a new major version release, including new features, various bugfixes
 and performance improvements, as well as updated translations.
 
 Please report bugs using the issue tracker at GitHub:
 
-  <https://github.com/crapto-project/crapto/issues>
+  <https://github.com/nickarmstrongcrews/crapto/issues>
 
 To receive security and update notifications, please subscribe to:
 

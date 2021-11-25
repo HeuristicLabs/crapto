@@ -555,8 +555,8 @@ void SetupServerArgs()
 
 std::string LicenseInfo()
 {
-    const std::string URL_SOURCE_CODE = "<https://github.com/crapto-project/crapto>";
-    const std::string URL_WEBSITE = "<https://crapto.org>";
+    const std::string URL_SOURCE_CODE = "<https://github.com/nickarmstrongcrews/crapto>";
+    const std::string URL_WEBSITE = "<https://craptocurrency.net>";
 
     return CopyrightHolders(strprintf(_("Copyright (C) %i-%i"), 2011, COPYRIGHT_YEAR) + " ") + "\n" +
            "\n" +

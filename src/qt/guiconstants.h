@@ -47,7 +47,7 @@ static const int MAX_URI_LENGTH = 255;
 #define SPINNER_FRAMES 36
 
 #define QAPP_ORG_NAME "Crapto"
-#define QAPP_ORG_DOMAIN "crapto.org"
+#define QAPP_ORG_DOMAIN "craptocurrency.net"
 #define QAPP_APP_NAME_DEFAULT "Crapto-Qt"
 #define QAPP_APP_NAME_TESTNET "Crapto-Qt-testnet"
 #define QAPP_APP_NAME_REGTEST "Crapto-Qt-regtest"

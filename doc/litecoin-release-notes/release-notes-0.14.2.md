@@ -1,13 +1,13 @@
 Crapto Core version 0.14.2 is now available from:
 
-  <https://download.crapto.org/crapto-0.14.2.0/>
+  <https://download.craptocurrency.net/crapto-0.14.2.0/>
 
 This is a new major version release, including new features, various bugfixes
 and performance improvements, as well as updated translations.
 
 Please report bugs using the issue tracker at github:
 
-  <https://github.com/crapto-project/crapto/issues>
+  <https://github.com/nickarmstrongcrews/crapto/issues>
 
 To receive security and update notifications, please subscribe to:
 
@@ -56,7 +56,7 @@ Testnet faucets can be located at:
 - http://testnet.craptotools.com
 - http://testnet.thrasher.io
 
-Developers who require the new testnet blockchain paramaters can find them [here](https://github.com/crapto-project/crapto/blob/master/src/chainparams.cpp#L220).
+Developers who require the new testnet blockchain paramaters can find them [here](https://github.com/nickarmstrongcrews/crapto/blob/master/src/chainparams.cpp#L220).
 
 Performance Improvements
 --------------
@@ -124,7 +124,7 @@ ZMQ On Windows
 
 Previously the ZeroMQ notification system was unavailable on Windows
 due to various issues with ZMQ. These have been fixed upstream and
-now ZMQ can be used on Windows. Please see [this document](https://github.com/crapto-project/crapto/blob/master/doc/zmq.md) for
+now ZMQ can be used on Windows. Please see [this document](https://github.com/nickarmstrongcrews/crapto/blob/master/doc/zmq.md) for
 help with using ZMQ in general.
 
 Nested RPC Commands in Debug Console

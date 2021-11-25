@@ -23,7 +23,7 @@ packages:
 - "python"
 - "rename"
 remotes:
-- "url": "https://github.com/crapto-project/crapto.git"
+- "url": "https://github.com/nickarmstrongcrews/crapto.git"
   "dir": "crapto"
 files: []
 script: |

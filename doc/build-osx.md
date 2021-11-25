@@ -43,7 +43,7 @@ Build Crapto Core
 
 1. Clone the Crapto Core source code:
 
-        git clone https://github.com/crapto-project/crapto
+        git clone https://github.com/nickarmstrongcrews/crapto
         cd crapto
 
 2.  Build Crapto Core:

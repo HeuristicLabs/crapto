@@ -7,7 +7,7 @@ architectures:
 packages:
 - "faketime"
 remotes:
-- "url": "https://github.com/crapto-project/crapto-detached-sigs.git"
+- "url": "https://github.com/nickarmstrongcrews/crapto-detached-sigs.git"
   "dir": "signature"
 files:
 - "crapto-osx-unsigned.tar.gz"

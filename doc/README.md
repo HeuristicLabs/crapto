@@ -5,7 +5,7 @@ Setup
 ---------------------
 Crapto Core is the original Crapto client and it builds the backbone of the network. It downloads and, by default, stores the entire history of Crapto transactions, which requires approximately 22 gigabytes of disk space. Depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
 
-To download Crapto Core, visit [crapto.org](https://crapto.org/).
+To download Crapto Core, visit [craptocurrency.net](https://craptocurrency.net/).
 
 Running
 ---------------------

@@ -1,9 +1,9 @@
 Crapto Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/crapto-project/crapto.svg?branch=master)](https://travis-ci.org/crapto-project/crapto)
+[![Build Status](https://travis-ci.org/nickarmstrongcrews/crapto.svg?branch=master)](https://travis-ci.org/nickarmstrongcrews/crapto)
 
-https://crapto.org
+https://craptocurrency.net
 
 What is Crapto?
 ----------------
@@ -15,7 +15,7 @@ out collectively by the network. Crapto Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Crapto Core software, see [https://crapto.org](https://crapto.org).
+the Crapto Core software, see [https://craptocurrency.net](https://craptocurrency.net).
 
 License
 -------
@@ -27,7 +27,7 @@ Development Process
 -------------------
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/crapto-project/crapto/tags) are created
+completely stable. [Tags](https://github.com/nickarmstrongcrews/crapto/tags) are created
 regularly to indicate new official, stable release versions of Crapto Core.
 
 The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md)

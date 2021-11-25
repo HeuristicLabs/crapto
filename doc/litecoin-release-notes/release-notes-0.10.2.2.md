@@ -1,13 +1,13 @@
 Crapto Core version 0.10.2.2 is now available from:
 
-  <https://download.crapto.org/crapto-0.10.2.2/>
+  <https://download.craptocurrency.net/crapto-0.10.2.2/>
 
 This is a new major version release, bringing bug fixes and translation 
 updates. It is recommended to upgrade to this version.
 
 Please report bugs using the issue tracker at github:
 
-  <https://github.com/crapto-project/crapto/issues>
+  <https://github.com/nickarmstrongcrews/crapto/issues>
 
 Upgrading and downgrading
 =========================
